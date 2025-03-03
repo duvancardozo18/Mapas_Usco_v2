@@ -1,11 +1,11 @@
 {
   "id": 2,
-  "name": "Edificio Comercial Neiva",
-  "description": "Edificio comercial ubicado en el centro de Neiva.",
-  "address": "Calle 8 # 6-40, Neiva, Huila, Colombia",
+  "name": "Sample Building",
+  "description": "This is a sample building structure",
+  "address": "456 Sample Ave",
   "location": {
-    "latitude": 2.941887748252334,
-    "longitude": -75.29872778793953
+    "latitude": 45.7123,
+    "longitude": 3.1234
   },
   "indoor_map": {
     "type": "FeatureCollection",
@@ -13,7 +13,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Pasillo Principal",
+          "name": "Main Hallway",
           "feature_type": "corridor",
           "level_id": 1,
           "show": "true"
@@ -21,11 +21,11 @@
         "geometry": {
           "coordinates": [
             [
-              [-75.2988, 2.9419],
-              [-75.29875, 2.9419],
-              [-75.29875, 2.94195],
-              [-75.2988, 2.94195],
-              [-75.2988, 2.9419]
+              [3.111, 45.758],
+              [3.1115, 45.758],
+              [3.1115, 45.7583],
+              [3.111, 45.7583],
+              [3.111, 45.758]
             ]
           ],
           "type": "Polygon"
@@ -40,11 +40,11 @@
         "geometry": {
           "coordinates": [
             [
-              [-75.29878, 2.94191],
-              [-75.29877, 2.94191],
-              [-75.29877, 2.94194],
-              [-75.29878, 2.94194],
-              [-75.29878, 2.94191]
+              [3.1112, 45.7581],
+              [3.1113, 45.7581],
+              [3.1113, 45.7582],
+              [3.1112, 45.7582],
+              [3.1112, 45.7581]
             ]
           ],
           "type": "Polygon"
@@ -61,8 +61,8 @@
         "geometry": {
           "type": "LineString",
           "coordinates": [
-            [-75.29879, 2.941925],
-            [-75.298775, 2.941925]
+            [3.1111, 45.75805],
+            [3.11125, 45.75815]
           ]
         },
         "properties": {}
@@ -75,12 +75,12 @@
       {
         "type": "Feature",
         "geometry": {
-          "coordinates": [-75.298775, 2.941925],
+          "coordinates": [3.11125, 45.75815],
           "type": "Point"
         },
         "properties": {
           "id": 201,
-          "name": "Recepción",
+          "name": "Reception",
           "type": "administrative",
           "floor": 1
         }
