@@ -11,8 +11,8 @@ function isPolygonFeature(
 }
 
 const indoorMap = building.indoor_map as GeoJSON.FeatureCollection;
-console.log("Building Data:", building);
-console.log("Indoor Map:", building?.indoor_map);
+//console.log("Building Data:", building);
+//console.log("Indoor Map:", building?.indoor_map);
 const unitFeatures = indoorMap.features.filter((element) =>
   isPolygonFeature(element),
 );

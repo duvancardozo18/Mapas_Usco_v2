@@ -1,20 +1,22 @@
 {
-  "id": 2,
-  "name": "Edificio Comercial Neiva",
-  "description": "Edificio comercial ubicado en el centro de Neiva.",
-  "address": "Calle 8 # 6-40, Neiva, Huila, Colombia",
+  "id": 1,
+  "name": "Edificio #1 - Biblioteca Central",
+  "description": "",
+  "address": "Universidad Surcolombiana",
   "location": {
     "latitude": 2.941887748252334,
     "longitude": -75.29872778793953
   },
+
   "indoor_map": {
+    "_comment": "Item #1 - Piso y Estrucutra ",
     "type": "FeatureCollection",
     "features": [
       {
         "type": "Feature",
         "properties": {
-          "name": "Pasillo Principal",
-          "feature_type": "corridor",
+          "name": "Piso - Biblioteca Central",
+          "feature_type": "",
           "level_id": 1,
           "show": "true"
         },
@@ -33,6 +35,7 @@
       },
       {
         "type": "Feature",
+        "name": "Estructura - Biblioteca Central",
         "properties": {
           "feature_type": "unit",
           "show": "true"
@@ -53,7 +56,9 @@
       }
     ]
   },
+
   "indoor_routes": {
+    "_comment": "Item #2 - Ruta",
     "type": "FeatureCollection",
     "features": [
       {
@@ -69,7 +74,9 @@
       }
     ]
   },
+
   "pois": {
+    "_comment": "Item #3 - Nombre del Edificio - Visible en el mapa",
     "type": "FeatureCollection",
     "features": [
       {
@@ -79,8 +86,8 @@
           "type": "Point"
         },
         "properties": {
-          "id": 201,
-          "name": "Recepción",
+          "id": 1001,
+          "name": "Biblioteca Central",
           "type": "administrative",
           "floor": 1
         }
