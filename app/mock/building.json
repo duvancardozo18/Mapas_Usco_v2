@@ -1,21 +1,21 @@
 {
   "id": 1,
-  "name": "Edificio #1 - Biblioteca Central",
+  "name": "Universidad Surcolombiana",
   "description": "",
-  "address": "Universidad Surcolombiana",
+  "address": "Avenida Pastrana Borrero, Carrera 1 - Neiva, Huila, Colombia",
   "location": {
     "latitude": 2.941887748252334,
     "longitude": -75.29872778793953
   },
 
   "indoor_map": {
-    "_comment": "Item #1 - Piso y Estrucutra ",
+    "_comment": "ITEM #1 - PISOS Y ESTRUCTURAS",
     "type": "FeatureCollection",
     "features": [
       {
         "type": "Feature",
         "properties": {
-          "name": "Piso - Biblioteca Central",
+          "name": "PISO #1 - Biblioteca Central",
           "feature_type": "",
           "level_id": 1,
           "show": "true"
@@ -37,7 +37,30 @@
       },
       {
         "type": "Feature",
-        "name": "Estructura - Biblioteca Central",
+        "properties": {
+          "name": "PISO #2 - Fotocopiadora OTIS",
+          "feature_type": "",
+          "level_id": 1,
+          "show": "true"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [-75.2983119273, 2.94176767831],
+              [-75.2983124229, 2.94172445331],
+              [-75.2983556402, 2.94172340235],
+              [-75.2983548944, 2.94176869116],
+              [-75.298311924, 2.94176796072],
+              [-75.2983119273, 2.94176767831]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "name": "ESTRUCTURA #1 - Biblioteca Central",
         "properties": {
           "feature_type": "unit",
           "show": "true"
@@ -56,13 +79,36 @@
           ],
           "type": "Polygon"
         },
-        "id": 101
+        "id": 1
+      },
+
+      {
+        "type": "Feature",
+        "name": "ESTRUCTURA #2 - Fotocopiadora OTIS",
+        "properties": {
+          "feature_type": "unit",
+          "show": "true"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [-75.2983119273, 2.94176767831],
+              [-75.2983124229, 2.94172445331],
+              [-75.2983556402, 2.94172340235],
+              [-75.2983548944, 2.94176869116],
+              [-75.298311924, 2.94176796072],
+              [-75.2983119273, 2.94176767831]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 2
       }
     ]
   },
 
   "indoor_routes": {
-    "_comment": "Item #2 - Ruta",
+    "_comment": "ITEM #2 - RUTA",
     "type": "FeatureCollection",
     "features": [
       {
@@ -80,7 +126,7 @@
   },
 
   "pois": {
-    "_comment": "Item #3 - Nombre del Edificio - Visible en el mapa",
+    "_comment": "ITEM #3 - NOMBRE VISIBLE EN EL MAPA",
     "type": "FeatureCollection",
     "features": [
       {
@@ -92,7 +138,20 @@
         "properties": {
           "id": 1001,
           "name": "Biblioteca Central",
-          "type": "administrative",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2983338658, 2.94174610693],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 1002,
+          "name": "Fotocopiadora OTIS",
+          "type": "",
           "floor": 1
         }
       }
