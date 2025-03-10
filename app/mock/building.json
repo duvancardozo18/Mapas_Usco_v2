@@ -57,6 +57,51 @@
           "type": "Polygon"
         }
       },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "PISO #3 - Laboratorio Saya",
+          "feature_type": "",
+          "level_id": 1,
+          "show": "true"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [-75.2982194096, 2.94210050554],
+              [-75.2982177816, 2.94205671179],
+              [-75.2982611899, 2.94205840592],
+              [-75.2983050434, 2.94206011743],
+              [-75.2983038635, 2.94210389011],
+              [-75.2982195119, 2.94210325698],
+              [-75.2982194096, 2.94210050554]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "PISO #4 - Sala #3",
+          "feature_type": "",
+          "level_id": 1,
+          "show": "true"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [-75.2982177816, 2.94205671179],
+              [-75.29821826, 2.94202783332],
+              [-75.2982209475, 2.94200286823],
+              [-75.2982623275, 2.94200317882],
+              [-75.2982611899, 2.94205840592],
+              [-75.2982177816, 2.94205671179]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
 
       {
         "type": "Feature",
@@ -81,7 +126,6 @@
         },
         "id": 1
       },
-
       {
         "type": "Feature",
         "name": "ESTRUCTURA #2 - Fotocopiadora OTIS",
@@ -103,6 +147,51 @@
           "type": "Polygon"
         },
         "id": 2
+      },
+      {
+        "type": "Feature",
+        "name": "ESTRUCTURA #3 - Laboratorio Saya",
+        "properties": {
+          "feature_type": "unit",
+          "show": "true"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [-75.2982194096, 2.94210050554],
+              [-75.2982177816, 2.94205671179],
+              [-75.2982611899, 2.94205840592],
+              [-75.2983050434, 2.94206011743],
+              [-75.2983038635, 2.94210389011],
+              [-75.2982195119, 2.94210325698],
+              [-75.2982194096, 2.94210050554]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "name": "ESTRUCTURA #4 - Sala #3",
+        "properties": {
+          "feature_type": "unit",
+          "show": "true"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [-75.2982177816, 2.94205671179],
+              [-75.29821826, 2.94202783332],
+              [-75.2982209475, 2.94200286823],
+              [-75.2982623275, 2.94200317882],
+              [-75.2982611899, 2.94205840592],
+              [-75.2982177816, 2.94205671179]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 4
       }
     ]
   },
@@ -132,7 +221,7 @@
       {
         "type": "Feature",
         "geometry": {
-          "coordinates": [-75.2983114283, 2.94172385826],
+          "coordinates": [-75.2982418451, 2.94167806638],
           "type": "Point"
         },
         "properties": {
@@ -151,6 +240,32 @@
         "properties": {
           "id": 1002,
           "name": "Fotocopiadora OTIS",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2982611211, 2.94208085709],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 1003,
+          "name": "Laboratorio Saya",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2982403365, 2.94203049702],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 1004,
+          "name": "Sala 3",
           "type": "",
           "floor": 1
         }
