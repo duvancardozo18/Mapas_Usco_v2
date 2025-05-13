@@ -788,30 +788,6 @@
           "type": "Polygon"
         }
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "PISO #35 - Laboratrio #1 - Ciencias Basicas",
-          "feature_type": "",
-          "level_id": 1,
-          "show": "true"
-        },
-        "geometry": {
-          "coordinates": [
-            [
-              [-75.2985894444444, 2.94213],
-              [-75.2985894444444, 2.94219555555556],
-              [-75.2985630555555, 2.94219555555556],
-              [-75.2985327777778, 2.94219555555556],
-              [-75.2985327777778, 2.94221138888889],
-              [-75.2985161111111, 2.94213],
-              [-75.2985161111111, 2.94213],
-              [-75.2985894444444, 2.94213]
-            ]
-          ],
-          "type": "Polygon"
-        }
-      },
 
       {
         "type": "Feature",
@@ -922,28 +898,7 @@
           "type": "Polygon"
         }
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "PISO #42 - Sala #1 - Ciencias Basicas",
-          "feature_type": "",
-          "level_id": 1,
-          "show": "true"
-        },
-        "geometry": {
-          "coordinates": [
-            [
-              [-75.0151672222222, 2.9422275],
-              [-75.0151672222222, 2.94220666666667],
-              [-75.0151363888889, 2.94220666666667],
-              [-75.0151672222222, 2.94220666666667],
-              [-75.0151672222222, 2.94220861111111],
-              [-75.0151672222222, 2.9422275]
-            ]
-          ],
-          "type": "Polygon"
-        }
-      },
+
       {
         "type": "Feature",
         "properties": {
@@ -1496,46 +1451,7 @@
         },
         "id": 23
       },
-      {
-        "type": "Feature",
-        "name": "ESTRUCTURA #24 - Hall - Artes",
-        "properties": {
-          "feature_type": "unit",
-          "show": "true"
-        },
-        "geometry": {
-          "coordinates": [
-            [
-              [-75.2982245763, 2.94244085285],
-              [-75.2982254116, 2.9424004778],
-              [-75.2981956176, 2.9424004778],
-              [-75.2981961745, 2.94238627692],
-              [-75.2982293099, 2.94238516312],
-              [-75.2982400427, 2.94238519865],
-              [-75.2982441972, 2.9423840552],
-              [-75.2982466747, 2.94238230191],
-              [-75.2982489235, 2.94237982444],
-              [-75.2982505243, 2.94237608918],
-              [-75.2982507504, 2.94237318983],
-              [-75.2982510289, 2.9423495217],
-              [-75.2983170212, 2.94234924325],
-              [-75.2983167428, 2.94237569587],
-              [-75.2983173139, 2.94237759863],
-              [-75.298318925, 2.94238023004],
-              [-75.2983212074, 2.9423828883],
-              [-75.2983252887, 2.94238527805],
-              [-75.2983281592, 2.94238572002],
-              [-75.2983715214, 2.94238738213],
-              [-75.298371176, 2.94240162864],
-              [-75.2983406894, 2.94240131315],
-              [-75.2983395756, 2.94244140975],
-              [-75.2982245763, 2.94244085285]
-            ]
-          ],
-          "type": "Polygon"
-        },
-        "id": 24
-      },
+
       {
         "type": "Feature",
         "name": "ESTRUCTURA #25 - Laboratorio de Dibujo",
@@ -1779,7 +1695,7 @@
               [-75.2985630555555, 2.94219555555556],
               [-75.2985327777778, 2.94219555555556],
               [-75.2985327777778, 2.94221138888889],
-              [-75.2985161111111, 2.94213],
+              [-75.2985161111111, 2.94220861111111],
               [-75.2985161111111, 2.94213],
               [-75.2985894444444, 2.94213]
             ]
@@ -1932,12 +1848,11 @@
         "geometry": {
           "coordinates": [
             [
-              [-75.0151672222222, 2.9422275],
-              [-75.0151672222222, 2.94220666666667],
-              [-75.0151363888889, 2.94220666666667],
-              [-75.0151672222222, 2.94220666666667],
-              [-75.0151672222222, 2.94220861111111],
-              [-75.0151672222222, 2.9422275]
+              [-75.2985005555555, 2.9422275],
+              [-75.2984697222222, 2.9422275],
+              [-75.2984697222222, 2.94220861111111],
+              [-75.2985005555555, 2.94220861111111],
+              [-75.2985005555555, 2.9422275]
             ]
           ],
           "type": "Polygon"
@@ -1975,12 +1890,12 @@
         "geometry": {
           "coordinates": [
             [
-              [-75.0151363888889, 2.9422275],
-              [-75.0151122222222, 2.9422275],
-              [-75.0151122222222, 2.94218833333333],
-              [-75.0151308333333, 2.94218833333333],
-              [-75.0151363888889, 2.94220666666667],
-              [-75.0151363888889, 2.9422275]
+              [-75.2984697222222, 2.9422275],
+              [-75.2984455555556, 2.9422275],
+              [-75.2984455555556, 2.94218833333333],
+              [-75.2984697222222, 2.94218833333333],
+              [-75.2984697222222, 2.94220861111111],
+              [-75.2984697222222, 2.9422275]
             ]
           ],
           "type": "Polygon"
@@ -3701,7 +3616,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1001,
+          "id": 10001,
           "name": "Biblioteca Central",
           "type": "",
           "floor": 1
@@ -3714,7 +3629,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1002,
+          "id": 10002,
           "name": "Fotocopiadora OTIS",
           "type": "",
           "floor": 1
@@ -3727,7 +3642,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1003,
+          "id": 10003,
           "name": "Laboratorio Saya",
           "type": "",
           "floor": 1
@@ -3740,7 +3655,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1005,
+          "id": 10005,
           "name": "Archivo",
           "type": "",
           "floor": 1
@@ -3753,7 +3668,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1006,
+          "id": 10006,
           "name": "CECEIP",
           "type": "",
           "floor": 1
@@ -3766,7 +3681,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1007,
+          "id": 10007,
           "name": "Consultorio M",
           "type": "",
           "floor": 1
@@ -3779,7 +3694,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1008,
+          "id": 10008,
           "name": "Editorial",
           "type": "",
           "floor": 1
@@ -3792,7 +3707,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1010,
+          "id": 10010,
           "name": "Odontologia",
           "type": "",
           "floor": 1
@@ -3805,7 +3720,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1011,
+          "id": 10011,
           "name": "Oficina 1",
           "type": "",
           "floor": 1
@@ -3818,7 +3733,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1012,
+          "id": 10012,
           "name": "Psicologia",
           "type": "",
           "floor": 1
@@ -3831,7 +3746,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1013,
+          "id": 10013,
           "name": "Sala de espera",
           "type": "",
           "floor": 1
@@ -3844,7 +3759,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1014,
+          "id": 10014,
           "name": "Sala 1",
           "type": "",
           "floor": 1
@@ -3857,7 +3772,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1015,
+          "id": 10015,
           "name": "Sala 2",
           "type": "",
           "floor": 1
@@ -3883,7 +3798,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1018,
+          "id": 10018,
           "name": "Oficina 1",
           "type": "",
           "floor": 1
@@ -3896,7 +3811,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1019,
+          "id": 10019,
           "name": "Oficina 2",
           "type": "",
           "floor": 1
@@ -3909,7 +3824,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1020,
+          "id": 10020,
           "name": "Oficina Liquidacion",
           "type": "",
           "floor": 1
@@ -3922,7 +3837,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1021,
+          "id": 10021,
           "name": "Registro y Control",
           "type": "",
           "floor": 1
@@ -3935,7 +3850,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1022,
+          "id": 10022,
           "name": "Baño 1 - Faclultad de Artes",
           "type": "",
           "floor": 1
@@ -3957,24 +3872,11 @@
       {
         "type": "Feature",
         "geometry": {
-          "coordinates": [-75.2982831743, 2.94240009573],
-          "type": "Point"
-        },
-        "properties": {
-          "id": 1024,
-          "name": "Hall - Faclultad de Artes",
-          "type": "",
-          "floor": 1
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
           "coordinates": [-75.2981487727, 2.94239502645],
           "type": "Point"
         },
         "properties": {
-          "id": 1025,
+          "id": 10025,
           "name": "Laboratorio de Dibujo",
           "type": "",
           "floor": 1
@@ -3987,7 +3889,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1026,
+          "id": 10026,
           "name": "Laboratorio de Escultura",
           "type": "",
           "floor": 1
@@ -4000,7 +3902,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1027,
+          "id": 10027,
           "name": "Oficina 1 - Faclultad de Artes",
           "type": "",
           "floor": 1
@@ -4013,7 +3915,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1028,
+          "id": 10028,
           "name": "Oficina 2 - Faclultad de Artes",
           "type": "",
           "floor": 1
@@ -4026,8 +3928,8 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1029,
-          "name": "Aula 1",
+          "id": 10029,
+          "name": "Aula 1.",
           "type": "",
           "floor": 1
         }
@@ -4039,7 +3941,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1030,
+          "id": 10030,
           "name": "Aula 2",
           "type": "",
           "floor": 1
@@ -4052,7 +3954,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1031,
+          "id": 10031,
           "name": "Aula 3",
           "type": "",
           "floor": 1
@@ -4065,7 +3967,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1032,
+          "id": 10032,
           "name": "Aula 4",
           "type": "",
           "floor": 1
@@ -4078,8 +3980,8 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1033,
-          "name": "Baño H",
+          "id": 10033,
+          "name": "Baños F - Facultad de Educacion",
           "type": "",
           "floor": 1
         }
@@ -4091,8 +3993,8 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1034,
-          "name": "Baño M",
+          "id": 10034,
+          "name": "Baños M - Facultad de Educacion",
           "type": "",
           "floor": 1
         }
@@ -4100,11 +4002,11 @@
       {
         "type": "Feature",
         "geometry": {
-          "coordinates": [-75.2985263888889, 2.94217777777778],
+          "coordinates": [-75.2985541666667, 2.9421675],
           "type": "Point"
         },
         "properties": {
-          "id": 1035,
+          "id": 10035,
           "name": "Laboratorio 1 - Ciencias Básicas",
           "type": "",
           "floor": 1
@@ -4117,7 +4019,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1036,
+          "id": 10036,
           "name": "Laboratorio 2 - Ciencias Básicas",
           "type": "",
           "floor": 1
@@ -4130,7 +4032,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1037,
+          "id": 10037,
           "name": "Laboratorio 3 - Ciencias Básicas",
           "type": "",
           "floor": 1
@@ -4143,7 +4045,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1038,
+          "id": 10038,
           "name": "Oficina 1 - Ciencias Básicas",
           "type": "",
           "floor": 1
@@ -4156,7 +4058,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1039,
+          "id": 10039,
           "name": "Oficina 2 - Ciencias Básicas",
           "type": "",
           "floor": 1
@@ -4169,7 +4071,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1040,
+          "id": 10040,
           "name": "Oficina 3 - Ciencias Básicas",
           "type": "",
           "floor": 1
@@ -4182,7 +4084,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1041,
+          "id": 10041,
           "name": "Oficina 4 - Ciencias Básicas",
           "type": "",
           "floor": 1
@@ -4191,11 +4093,11 @@
       {
         "type": "Feature",
         "geometry": {
-          "coordinates": [-75.0151538888889, 2.94221722222222],
+          "coordinates": [-75.2984872222222, 2.94221722222222],
           "type": "Point"
         },
         "properties": {
-          "id": 1042,
+          "id": 10042,
           "name": "Sala 1 - Ciencias Básicas",
           "type": "",
           "floor": 1
@@ -4208,7 +4110,7 @@
           "type": "Point"
         },
         "properties": {
-          "id": 1043,
+          "id": 10043,
           "name": "Sala 2 - Ciencias Básicas",
           "type": "",
           "floor": 1
@@ -4217,26 +4119,25 @@
       {
         "type": "Feature",
         "geometry": {
-          "coordinates": [-75.0151230555555, 2.94221527777778],
+          "coordinates": [-75.2984563888889, 2.94221527777778],
           "type": "Point"
         },
         "properties": {
-          "id": 1044,
+          "id": 10044,
           "name": "Sala 3 - Ciencias Básicas",
           "type": "",
           "floor": 1
         }
       },
-
       {
         "type": "Feature",
         "geometry": {
-          "coordinates": [-75.298075332, 2.94183960555],
+          "coordinates": [-75.2990775, 2.94219333333333],
           "type": "Point"
         },
         "properties": {
-          "id": 10170,
-          "name": "PUNTO A",
+          "id": 10045,
+          "name": "Laboratorio 1 - Serv. Generales",
           "type": "",
           "floor": 1
         }
@@ -4244,12 +4145,12 @@
       {
         "type": "Feature",
         "geometry": {
-          "coordinates": [-75.2983894209, 2.94184317474],
+          "coordinates": [-75.2990152777778, 2.94219333333333],
           "type": "Point"
         },
         "properties": {
-          "id": 10180,
-          "name": "PUNTO B",
+          "id": 10046,
+          "name": "Laboratorio 2 - Serv. Generales",
           "type": "",
           "floor": 1
         }
@@ -4257,12 +4158,90 @@
       {
         "type": "Feature",
         "geometry": {
-          "coordinates": [-75.2983870414, 2.94199427052],
+          "coordinates": [-75.2989402777778, 2.94219333333333],
           "type": "Point"
         },
         "properties": {
-          "id": 10190,
-          "name": "PUNTO C",
+          "id": 10047,
+          "name": "Oficina 1 - Serv. Generales",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.29892, 2.94225222222222],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10048,
+          "name": "Oficina 2 - Serv. Generales",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2988352777778, 2.94225222222222],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10049,
+          "name": "Oficina 3 - Serv. Generales",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2987486111111, 2.94225222222222],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10050,
+          "name": "Oficina 4 - Serv. Generales",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2986927777778, 2.94225222222222],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10051,
+          "name": "Oficina 5 - Serv. Generales",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2989719444444, 2.94219333333333],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10052,
+          "name": "Oficina 6 - Serv. Generales",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2993811111111, 2.9420875],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10053,
+          "name": "Aula 1 - Aulas",
           "type": "",
           "floor": 1
         }
