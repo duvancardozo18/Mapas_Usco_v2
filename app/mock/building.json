@@ -3462,7 +3462,7 @@
       },
       {
         "type": "Feature",
-        "name": "ESTRUCTURA #117 - Gimnasio #2 - Facultad de Ingenieria",
+        "name": "ESTRUCTURA #118 - Gimnasio #2 - Facultad de Ingenieria",
         "properties": {
           "feature_type": "unit",
           "show": "true"
@@ -3487,7 +3487,7 @@
       },
       {
         "type": "Feature",
-        "name": "ESTRUCTURA #117 - Gimnasio #2 - Facultad de Ingenieria",
+        "name": "ESTRUCTURA #119 - Oficina de Profes Edufisica - Facultad de Ingenieria",
         "properties": {
           "feature_type": "unit",
           "show": "true"
@@ -3495,15 +3495,11 @@
         "geometry": {
           "coordinates": [
             [
-              [-75.3007286111111, 2.94240055555556],
-              [-75.3008255555555, 2.94230222222222],
-              [-75.3009241666667, 2.94239194444444],
-              [-75.3008697222222, 2.94245194444444],
-              [-75.3009141666667, 2.94245055555556],
-              [-75.3009213888889, 2.94267333333333],
-              [-75.3008627777778, 2.94273611111111],
-              [-75.3007441666667, 2.94273888888889],
-              [-75.3007286111111, 2.94240055555556]
+              [-75.3006972222222, 2.94276194444444],
+              [-75.3006572222222, 2.94279333333333],
+              [-75.3006441666667, 2.94246777777778],
+              [-75.30069, 2.942465],
+              [-75.3006972222222, 2.94276194444444]
             ]
           ],
           "type": "Polygon"
