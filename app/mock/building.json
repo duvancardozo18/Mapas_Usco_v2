@@ -4466,6 +4466,253 @@
           "type": "",
           "floor": 1
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3003022222222, 2.94235555555556],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10071,
+          "name": "Aula 4 - Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3002436111111, 2.94236277777778],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10072,
+          "name": "Baño 1- Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3002377777778, 2.94229138888889],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10073,
+          "name": "Baño 2 - Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3002619444444, 2.9422175],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10074,
+          "name": "Auditorio - Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3005966666667, 2.94229111111111],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10075,
+          "name": "Sala 2 - Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3005905555556, 2.94223944444444],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10076,
+          "name": "Oficina 2 - Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.30057, 2.9421925],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10077,
+          "name": "Aula 5 - Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3005538888889, 2.94214194444444],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10078,
+          "name": "Sala 3 - Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3004852777778, 2.94206388888889],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10079,
+          "name": "Aula 6 - Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3004336111111, 2.94204194444444],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10080,
+          "name": "Aula 7 - Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3003691666667, 2.94201277777778],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10081,
+          "name": "Sala 4 - Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3003411111111, 2.94208277777778],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10082,
+          "name": "Oficina 3 - Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3005036111111, 2.94225694444444],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10083,
+          "name": "Sala 5 - Fac. Ileusco",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2986011111111, 2.9416375],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10085,
+          "name": "Vice academia",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2990461111111, 2.9419975],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10086,
+          "name": "Oficina - Prof. Mat.",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2993167035, 2.94177421771],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10087,
+          "name": "Cine Cafe",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3000424121, 2.9419751515],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10088,
+          "name": "Restaurante",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2999585336, 2.94225490822],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10089,
+          "name": "Gimnasio",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2993052777778, 2.94226611111111],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10090,
+          "name": "Documento - Archivo",
+          "type": "",
+          "floor": 1
+        }
       }
     ]
   },
