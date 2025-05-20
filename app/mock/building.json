@@ -4652,6 +4652,371 @@
           "type": "",
           "floor": 1
         }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.2991533333333, 2.94220333333333],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10091,
+          "name": "Laboratorio - Archivo",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3012519444444, 2.94444888888889],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10092,
+          "name": "Auditorio - Facultad de Economoa",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3009494444444, 2.94454833333333],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10094,
+          "name": "Baño servicio - Facultad de Economoa",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3009033333333, 2.94455277777778],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10095,
+          "name": "Aula 1 - Facultad de Economoa",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3008366666667, 2.94455444444444],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10096,
+          "name": "Aula 2 - Facultad de Economoa",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3007688888889, 2.94455583333333],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10097,
+          "name": "Aula 3 - Facultad de Economoa",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3007697222222, 2.94446166666667],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10098,
+          "name": "Ofic. Emprendimiento - Facultad de Economoa",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3007586111111, 2.94436611111111],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10099,
+          "name": "Aula 4 - Facultad de Economoa",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3008302777778, 2.9443625],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10100,
+          "name": "Aula 5 - Facultad de Economoa",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3008966666667, 2.94436138888889],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10101,
+          "name": "Aula 6 - Facultad de Economoa",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3009402777778, 2.94436166666667],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10102,
+          "name": "Baño servicio - Facultad de Economoa",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3010655555556, 2.94293083333333],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10103,
+          "name": "Lab. de Suelos - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3010316666667, 2.94301027777778],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10104,
+          "name": "Lab. Contrucciones - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3010063888889, 2.94307027777778],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10105,
+          "name": "Lab. CPIP - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3009866666667, 2.94311472222222],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10106,
+          "name": "Lab. Hidraulica - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3009566666667, 2.94313611111111],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10107,
+          "name": "Lab Secado - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3008925, 2.94313416666667],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10108,
+          "name": "Lab Agroindutrial - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3008086111111, 2.94313444444444],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10109,
+          "name": "Lab Agroindustrial 2 - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3006894444444, 2.943155],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10110,
+          "name": "Laboratorio - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3006872222222, 2.94311555555556],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10111,
+          "name": "Baño servicio - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3006816666667, 2.943015],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10112,
+          "name": "Lab. Electronica - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3006802777778, 2.94296722222222],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10113,
+          "name": "Baño servicio - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.30068, 2.94292],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10114,
+          "name": "Lab - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3008208333333, 2.94294611111111],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10115,
+          "name": "Lab. Cafe - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3009044444444, 2.9429425],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10116,
+          "name": "Lab. Cafe 2 - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3009527777778, 2.9429525],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10117,
+          "name": "Lab. Cafe 3 - Fac. Ingenieria",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3008213888889, 2.94252916666667],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10118,
+          "name": "Gimnasio",
+          "type": "",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [-75.3006713888889, 2.94261916666667],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10119,
+          "name": "Ofic. Profe. Edufisica",
+          "type": "",
+          "floor": 1
+        }
       }
     ]
   },
