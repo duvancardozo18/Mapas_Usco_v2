@@ -2514,27 +2514,7 @@
         },
         "id": 72
       },
-      {
-        "type": "Feature",
-        "name": "ESTRUCTURA #73 - Baño 2 - Facuñtad de Educacion-Ileusco",
-        "properties": {
-          "feature_type": "unit",
-          "show": "true"
-        },
-        "geometry": {
-          "coordinates": [
-            [
-              [-75.3002636111111, 2.94232694444444],
-              [-75.3002166666667, 2.94232833333333],
-              [-75.3213888888889, 2.94226333333333],
-              [-75.3002613888889, 2.94226277777778],
-              [-75.3002636111111, 2.94232694444444]
-            ]
-          ],
-          "type": "Polygon"
-        },
-        "id": 73
-      },
+
       {
         "type": "Feature",
         "name": "ESTRUCTURA #74 - Auditorio - Facuñtad de Educacion-Ileusco",
